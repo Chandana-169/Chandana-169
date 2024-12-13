@@ -1,9 +1,10 @@
 # Hi there! 👋 I'm Chandana S
 
 <div align="center">
-  <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" width="250" height="250" alt="Coding GIF"/>
-</div>
-
+  <table>
+    <tr>
+      <td valign="center" width="60%">
+        
 ## 🎓 About Me
 - Currently pursuing MCA in 1st Year
 - Passionate about Technology and Learning
@@ -35,3 +36,10 @@
 
 ## 📊 GitHub Stats
 ![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanaS&show_icons=true&theme=radical)
+      </td>
+      <td valign="center" width="40%">
+        <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" width="350" height="350" alt="Coding GIF"/>
+      </td>
+    </tr>
+  </table>
+</div>
