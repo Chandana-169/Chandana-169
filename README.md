@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Chandana S
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFzcTBucTdtbzFkOWJlNWNhZGI2MmFhMWQ5MzU5NmEyNGU0NzM1NCZjdD1z/L1R1M0ILzMpSqPsN9A/giphy.gif" width="250" height="250" alt="Coding GIF"/>
+  <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" width="250" height="250" alt="Coding GIF"/>
 </div>
 
 ## 🎓 About Me
